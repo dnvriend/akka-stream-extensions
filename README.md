@@ -1,5 +1,8 @@
 # akka-stream-extensions
 
+[![Build Status](https://travis-ci.org/dnvriend/akka-stream-extensions.svg?branch=master)](https://travis-ci.org/dnvriend/akka-stream-extensions)
+[![Download](https://api.bintray.com/packages/dnvriend/maven/akka-stream-extensions/images/download.svg) ](https://bintray.com/dnvriend/maven/akka-stream-extensions/_latestVersion)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/dbd00ed89680435d8b96e57bd22d352f)](https://www.codacy.com/app/dnvriend/akka-stream-extensions?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dnvriend/akka-stream-extensions&amp;utm_campaign=Badge_Grade)
 [![License](http://img.shields.io/:license-Apache%202-red.svg)](http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 Non-official extension library for akka-stream that contains operations like zipWithIndex, Source.fromTry and so on
