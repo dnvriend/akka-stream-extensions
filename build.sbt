@@ -18,7 +18,7 @@ name := "akka-stream-extensions"
 
 organization := "com.github.dnvriend"
 
-version := "0.0.1"
+version := "0.0.2"
 
 scalaVersion := "2.11.8"
 
@@ -27,8 +27,8 @@ resolvers += Resolver.jcenterRepo
 testOptions in Test += Tests.Argument("-oD")
 
 libraryDependencies ++= {
-  val akkaVersion = "2.4.8"
-  val scalazVersion = "7.2.4"
+  val akkaVersion = "2.4.9"
+  val scalazVersion = "7.2.5"
   Seq(
     "org.scala-lang.modules" %% "scala-xml" % "1.0.5",
     "com.typesafe.akka" %% "akka-stream" % akkaVersion,
